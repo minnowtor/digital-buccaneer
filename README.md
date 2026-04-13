@@ -97,7 +97,7 @@ Modern hardware is capable enough. The models are good enough. The missing piece
 
 **Server — minnowmint**
 - i7-4790 · 32GB RAM · Linux Mint
-- Running: Proxmox, Home Assistant OS, Jellyfin, Immich, Pi-hole, Prometheus, Grafana, Tailscale, Radarr/Sonarr/Prowlarr, qBittorrent + Gluetun VPN
+- Running: Proxmox, Home Assistant OS, Jellyfin, Immich, Pi-hole, Prometheus, Grafana, Tailscale, Radarr/Sonarr/Prowlarr, qBittorrent + Gluetun VPN, Open WebUI
 
 **Networking**
 - OPNsense firewall · VLAN segmentation · default-deny WAN posture
